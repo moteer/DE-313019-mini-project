@@ -7,10 +7,9 @@ inspirieren!
 **Bedingungen:**
 
 ● arbeitet im Team
-  - Team 1: Bacdasch, Tarik, Nikita
-  - Team 2: Rene, Alina, Josefine
-  - Team 3: Tamayo, Sebastian B, Marc
-  - Team 4: Minh, Christian, Sebastian
+  - Team 1: Bacdasch, Tarik, Nikita, Christian
+  - Team 2: Rene, Alina, Josefine, Sebastian
+  - Team 3: Tamayo, Sebastian B, Marc, Minh
 
 ● Versucht eine kleine Planung aufzustellen. Stolpert nicht gleich in die Lösungsfindung, sondern skizziert erstmal, was Ihr implementieren wollt. Denkt daran, dass die Dinge meist etwas länger dauern, als vorher gedacht. (Skizzen, Meilensteine, etc.)
 
