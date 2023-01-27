@@ -20,3 +20,19 @@ inspirieren!
 ● Code verstehen
 
 ● Inspirationen -> https://canvas.academy.se/courses/568/files/130021?module_item_id=62356
+
+
+*Projekt Präsentation*
+
+● nach der Mittagspause um 13:00 Uhr starten wir mit den Präsentationen eurer Projekte. 
+
+● je Team max 10min Vorstellungszeit / im Anschluss Zeit für Fragen/Diskussionen
+
+● Worauf solltet Ihr bei der Vorstellung achten:
+
+  - Ergebnis vorstellen und demonstrieren
+  - Beschreibt euer Vorgehen (wie habt ihr Aufgaben verteilt? Mit welcher Strategie habt Ihr euch mit neuen Technologien auseinander gesetzt?)
+  - Welche Schwierigkeiten musstet Ihr überwinden?
+  - Stellt eine "komplizierte/interessante" Stelle im Code vor (Welches Problem musstet Ihr hier lösen und)   
+  - Wie hat der Umhgang mit Git im Team funktioniert?
+  - **Welche Learnings habt Ihr mitgenommen?**
